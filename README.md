@@ -1,27 +1,30 @@
 # Smart Business Insights Dashboard
 
-Dynamic Streamlit dashboard to explore any CSV dataset, visualize, train simple ML models (Regression / Classification), and predict on new data.
+This is a professional interactive dashboard built with **Streamlit**, **Python**, and **Plotly**.  
+It provides features like CSV upload, interactive visualizations, and simple ML model training.
 
-## How to Run
+---
 
-1. Clone repo:
+## 🔗 Open Live Dashboard
 
-   git clone <repo-link>
-   cd SmartBusinessInsights
+[Click here to open the live dashboard](https://smart-business-insights-dashboard-b5ap58wcrq6u2cgy62x6v2.streamlit.app/)
 
-2. Create virtual environment:
+> Replace `rajpawarkk11` with your GitHub username
 
-   python -m venv venv
-   .\venv\Scripts\activate   (Windows)
-   source venv/bin/activate  (Mac/Linux)
+---
 
-3. Install dependencies:
+## ⚡ Features
 
-   pip install -r requirements.txt
+- Upload any CSV file
+- Interactive Line, Bar, and Scatter plots
+- Train Regression or Classification models
+- Predict on new/unseen data
+- Modern professional UI with animated video background
 
-4. Run the dashboard:
+---
 
-   streamlit run app.py
+## 📌 How to Run Locally
 
-5. Upload your CSV and start exploring!
-
+1. Clone the repo:
+```bash
+git clone https://github.com/rajpawarkk11/Smart-Business-Insights-Dashboard.git
